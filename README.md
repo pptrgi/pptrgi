@@ -1,4 +1,4 @@
-## Hi, I’m Pptrgi 👋
+## Hi, I’m Peter 👋
 - 🔭 I'm working on React, Node.js and JavaScript.
 - 🌱 I am currently learning Express.js
 - 💞️ I’m looking to collaborate with others on React and JavaScript
