@@ -1,9 +1,8 @@
 ## Hi, I’m Peter 👋
 - 🔭 I'm working on React, Node.js and JavaScript.
-- 🌱 I am currently learning Express.js
-- 💞️ I’m looking to collaborate with others on React and JavaScript
-- 🥅 2023 Goals: Learn and contribute to Open Source projects.
-- 📫 Connect with me: LinkedIn | Twitter | Whatsapp
+- 🌱 I am currently learning Node.js
+- 💞️ I’m looking to collaborate with others on Fullstack Development.
+- 🥅 2023 Goal: Contribute to Open Source projects.
 
 <!---
 pptrgi/pptrgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
