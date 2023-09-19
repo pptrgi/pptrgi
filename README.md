@@ -1,8 +1,40 @@
-## Hi, I’m Peter 👋
-- 🔭 I'm working on React, Node.js and JavaScript.
-- 🌱 I am currently learning Node.js
-- 💞️ I’m looking to collaborate with others on Fullstack Development.
-- 🥅 2023 Goal: Contribute to Open Source projects.
+# Hi, I'm Peter
+
+Fullstack Developer
+
+---
+
+- 🔭 I'm currently working on something cool�
+- 🌱 I'm currently learning Mobile App Development with React Native
+- 🎤 Ask me about anything related to JavaScript
+- 💞️ I'm looking to collaborate with others on React/NodeJS/NextJS projects
+- 📞 How to reach me: [WhatsApp](https://wa.me/254700119134)
+- 🎯 2023 goal: Collaborate to open source projects
+- 😆 Fun fact: I make memes
+
+### Languages and Tools
+
+<img alt="React" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img alt="NodeJS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="HTML" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="Tailwind CSS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img alt="JavaScript" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Python" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/>
+<img alt="MongoDB" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img alt="PostgreSQL" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img alt="Git" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="Express" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img alt="NextJS" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img alt="Jest" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+
+### Connect with Me
+
+[![Twitter](https://link.com)](https://twitter.com/ptrgitonga)
+&nbsp;&nbsp;
+[![LinkedIn](https://link.com)](https://www.linkedin.com/in/petergitonga)
+&nbsp;&nbsp;
+[![Whatsapp](https://link.com)](https://wa.me/254700119134)
 
 <!---
 pptrgi/pptrgi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
