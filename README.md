@@ -4,7 +4,7 @@ Fullstack Developer
 
 ---
 
-- 🔭 I'm currently working on something cool�
+- 🔭 I'm currently working on something cool 😄
 - 🌱 I'm currently learning Mobile App Development with React Native
 - 🎤 Ask me about anything related to JavaScript
 - 💞️ I'm looking to collaborate with others on React/NodeJS/NextJS projects
