@@ -30,13 +30,13 @@ Fullstack Developer
 
 ### Connect with Me
 
-[![Twitter](https://link.com)](https://twitter.com/ptrgitonga)
+[![Twitter](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-light.svg)](https://twitter.com/ptrgitonga)
 &nbsp;&nbsp;
-[![LinkedIn](https://link.com)](https://www.linkedin.com/in/petergitonga)
+[![LinkedIn](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/petergitonga)
 &nbsp;&nbsp;
-[![Whatsapp](https://link.com)](https://wa.me/254700119134)
+[![Portfolio](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://ptrgitonga.vercel.app)
 
-### Most Used Languages
+##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pptrgi&show_icons=true&locale=en&layout=compact" alt="pptrgi" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=pptrgi&show_icons=true&locale=en" alt="pptrgi" /></p>
